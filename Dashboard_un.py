@@ -137,3 +137,11 @@ if file_1 and file_2:
                            color_discrete_sequence=polytex_colors))
 else:
     st.warning("Please upload both Excel files to begin analysis.")
+# =======================
+# חתימה בסוף הדף - מחוץ לבלוקים
+# =======================
+
+st.markdown("---")
+st.markdown("🧑‍💻 Developed by: **Sergey Minchin** – Polytex Service Team")
+st.markdown("📧 sergeym@polytex.co.il")
+st.markdown("📅 תאריך עדכון אחרון: אפריל 2025")
